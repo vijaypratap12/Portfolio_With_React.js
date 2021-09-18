@@ -1,0 +1,72 @@
+.footer {
+  background-image: url(svg2.png);
+  background-position: center;
+  background-size: cover;
+  background-color: white;
+  border: 0px solid red;
+  padding-top: 200px;
+  transition-property: all;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+.footer:hover {
+  background-image: url(svg.png);
+  background-position: center;
+  background-size: cover;
+}
+.footer_contact {
+  padding: 50px 50px;
+  border: 0px solid red;
+}
+.footer_contact ul li {
+  list-style: none;
+}
+.footer_contact ul li i {
+  padding-right: 10px;
+  color: blue;
+}
+
+.footer_contact ul li:hover {
+  color: white;
+  cursor: pointer;
+}
+.footer_menu {
+  border: 0px solid green;
+}
+
+.footer_menu ul {
+  list-style: none;
+  justify-content: space-around;
+}
+.footer_menu ul li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 25px;
+  font-size: 20px;
+  transition: 1s ease-in-out;
+}
+
+.footer_menu ul li a:hover {
+  background-color: blue;
+  color: #fff;
+  border-radius: 20px;
+  transform: scale(1.11);
+}
+
+.active {
+  background-color: blue;
+  color: #fff;
+  border-radius: 20px;
+}
+
+.footer_icons {
+  text-align: center;
+}
+.footer_icons i:hover {
+  color: white;
+  cursor: pointer;
+}
+.footer_icons i {
+  padding: 0px 10px;
+  font-size: 25px;
+}

@@ -1,0 +1,29 @@
+.intro {
+  background-image: url(svg.png);
+  background-position: center;
+  background-size: cover;
+  border: 0px solid red;
+  background-color: white;
+  transition-property: all;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+.intro:hover {
+  background-image: url(svg2.png);
+  background-position: center;
+  background-size: cover;
+}
+.intro_tag {
+  color: blue;
+  text-align: center;
+  font-style: italic;
+  margin-top: 230px;
+  font-size: 90px;
+}
+.intro_sub_tag {
+  text-decoration-line: overline;
+  color: blue;
+  text-align: center;
+  font-style: italic;
+  font-size: 45px;
+}

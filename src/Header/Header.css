@@ -1,0 +1,17 @@
+.header {
+  background-image: url(upper_wave_img.svg);
+  background-position: center;
+  background-size: cover;
+}
+
+.name {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+
+.title {
+  font-style: italic;
+  text-align: center;
+  color: white;
+}

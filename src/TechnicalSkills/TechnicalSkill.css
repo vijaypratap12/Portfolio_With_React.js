@@ -1,0 +1,23 @@
+.technicalskill {
+  margin-bottom: 100px;
+  padding-top: 50px;
+}
+
+.card {
+  color: white;
+  border-radius: 22px;
+  background: #e0e0e0;
+  box-shadow: 30px 30px 60px #9f9f9f, -30px -30px 60px #ffffff;
+  cursor: pointer;
+  height: 300px;
+  transition: 0.5s ease;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+.projects {
+  background-color: white;
+  padding: 50px 0px;
+}

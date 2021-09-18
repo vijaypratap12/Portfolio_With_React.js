@@ -1,0 +1,17 @@
+.card {
+  color: white;
+  border-radius: 22px;
+  background: #e0e0e0;
+  box-shadow: 30px 30px 60px #9f9f9f, -30px -30px 60px #ffffff;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+.education_section {
+  padding: 250px 0px;
+  border: 0px solid green;
+}

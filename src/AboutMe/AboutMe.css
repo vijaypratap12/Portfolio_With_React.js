@@ -1,0 +1,17 @@
+.aboutme {
+  background-color: white;
+}
+
+.sub_aboutme {
+  padding: 300px 0px;
+}
+.content_aboutme {
+  padding: 0px 100px;
+}
+
+.details {
+  padding-left: 150px;
+}
+.details i {
+  font-size: 25px;
+}
